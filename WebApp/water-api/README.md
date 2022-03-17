@@ -1,6 +1,6 @@
 # Automastic Deploy Server
 
-# Lumen PHP Framework
+# Lumen PHP Frameworks
 
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
